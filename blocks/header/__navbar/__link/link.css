@@ -1,0 +1,11 @@
+.navbar__link{
+    margin-right: 20px;
+    outline: none;
+    text-decoration: none;
+    color: #3A5F56;
+    ;
+}
+
+a:nth-last-child(1){
+    margin-right: 0px;
+}
