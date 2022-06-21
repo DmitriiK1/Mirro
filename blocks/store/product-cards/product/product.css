@@ -1,0 +1,13 @@
+@import url(./__image/product__image.css);
+@import url(./__title/product__title.css);
+@import url(./__text/product__text.css);
+
+.product{
+    width: 379px;
+    height: 438px;
+    border: red 1px solid;
+    
+    background: #FFFFFF;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 16px;
+}
