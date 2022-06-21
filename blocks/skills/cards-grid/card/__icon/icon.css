@@ -1,0 +1,12 @@
+@import url(./__image/icon__image.css);
+
+.icon{
+    position: relative;
+    width: 48px;
+    height: 48px;
+    left: 30px;
+    top: 30px;
+
+    background: rgba(58, 95, 86, 0.1);
+    border-radius: 24px;
+}
