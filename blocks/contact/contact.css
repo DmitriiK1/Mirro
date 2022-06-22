@@ -1,0 +1,19 @@
+@import url(./container/container.css);
+
+.contact{
+    position: relative;
+    max-width: 1440px;
+    height: 459px;
+    overflow: hidden;
+}
+
+.contact::after{
+    position: absolute;
+    content: "";
+    height: 774px;
+    left: -6.94%;
+    right: 47.57%;
+    top: 159.09px;
+
+    background: radial-gradient(50% 50% at 50% 50%, rgba(184, 125, 88, 0.35) 0%, rgba(184, 125, 88, 0) 100%);
+}
