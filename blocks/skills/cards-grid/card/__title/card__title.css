@@ -1,5 +1,8 @@
 .card__title{
     margin: 35px 0px 0px 30px;
-    color: rgba(58, 95, 86, 1);
 
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #3A5F56;
 }

@@ -1,10 +1,18 @@
 .container__button{
     width: 128px;
-    height: 58px;
-    color: white;
+    height: 58px;    
+    margin: 100px auto;
+
     background-color: rgba(58, 95, 86, 1);
     border-radius: 6px;
     padding: 0%;
     border: 0 !important;
-     margin: 100px auto;
+
+    font-size: 20px;
+    line-height: 28px;
+
+    text-align: center;
+
+    color: #FFFFFF;
+
 }
