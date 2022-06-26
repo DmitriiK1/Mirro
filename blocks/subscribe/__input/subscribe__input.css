@@ -1,0 +1,28 @@
+.subscribe__input{
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding: 0%;
+
+    background: #F9FAFB;
+    border: 1px solid #E5E7EB;
+    border-radius: 8px;
+}
+
+.subscribe__input::placeholder{
+    position: absolute;
+    height: 23px;
+    left: 25px;
+    top: 15px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    
+    color: #ABABAB;
+
+}
