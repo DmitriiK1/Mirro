@@ -1,0 +1,7 @@
+@import url(./__logo/footer__logo.css);
+@import url(./footer-container/footer-container.css);
+
+.footer{
+    max-width: 1440px;
+    background: rgba(41, 44, 50, 1);
+}
