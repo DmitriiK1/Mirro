@@ -1,0 +1,8 @@
+@import url(./__button/subscribe__button.css);
+@import url(./__input/subscribe__input.css);
+
+.subscribe{
+    width: 458px;
+    height: 53px;
+    position: relative;
+}

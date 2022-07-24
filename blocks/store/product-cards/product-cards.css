@@ -1,0 +1,11 @@
+@import url(./product/product.css);
+@import url(./product/__image/product__image.css);
+@import url(./product/__title/product__title.css);
+@import url(./product/__text/product__text.css);
+
+.product-cards{
+    display: flex;
+    justify-content: space-between;
+    margin: 47px auto 0;
+    max-width: 1167px;
+}

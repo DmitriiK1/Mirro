@@ -1,0 +1,41 @@
+@import url(./description/description.css);
+@import url(./__foto/main__foto.css);
+
+.main{    
+    position: relative;
+    display: flex;
+    height: 973px;
+    max-width: 1440px;
+    overflow: hidden;
+    
+    background-color:rgba(244, 243, 240, 1);
+}
+
+.main::before{
+    content: "";
+    position: absolute;
+    height: 494px;
+    width: 564px;
+    left: 976px;
+    top: -100px;
+    border-radius: 0px;
+
+    background: radial-gradient(50% 50% at 50% 50%, rgba(58, 95, 86, 0.55) 0%, rgba(58, 95, 86, 0) 100%);
+}
+
+.main::after{
+    content: "";
+    height: 813px;
+    width: 723px;
+    left: -222px;
+    top: 602px;
+    border-radius: 0px;
+
+    background: radial-gradient(50% 50% at 50% 50%, rgba(184, 125, 88, 0.8) 0%, rgba(184, 125, 88, 0) 100%);
+
+    position: absolute;
+}
+
+/* @media screen and () {
+    
+} */

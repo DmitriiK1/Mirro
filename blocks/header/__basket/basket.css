@@ -1,0 +1,17 @@
+@import url(./__counter/basket__counter.css);
+@import url(./__image/basket__image.css);
+@import url(./__name/basket__name.css);
+
+.basket{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 124px;
+    height: 44px;
+    margin: auto;
+
+    border: none;
+    border-radius: 6px;
+    background: rgba(58, 95, 86, 1);
+
+}

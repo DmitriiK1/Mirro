@@ -1,0 +1,10 @@
+@import url(./__list_title/footer-container__list_title.css);
+@import url(./__list_link/footer-container__list_link.css);
+@import url(./__list_text/footer-container__list_text.css);
+
+.box{
+    grid-column-start: 1;
+    grid-column-end: 5;
+    display: flex;
+    margin-top: 30px;
+} 
