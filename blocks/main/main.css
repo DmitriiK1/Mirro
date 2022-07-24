@@ -1,5 +1,5 @@
-@import url(/blocks/main/description/description.css);
-@import url(/blocks/main/__foto/main__foto.css);
+@import url(./description/description.css);
+@import url(./__foto/main__foto.css);
 
 .main{    
     position: relative;
@@ -35,3 +35,7 @@
 
     position: absolute;
 }
+
+/* @media screen and () {
+    
+} */
