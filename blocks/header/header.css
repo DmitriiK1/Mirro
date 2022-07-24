@@ -1,6 +1,6 @@
-@import url(./__navbar/navbar.css);
-@import url(./__logo/logo.css);
-@import url(./__basket/basket.css);
+@import url(__navbar/navbar.css);
+@import url(__logo/logo.css);
+@import url(__basket/basket.css);
 
 .header{
     display: flex;
