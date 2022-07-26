@@ -1,0 +1,13 @@
+@import url(./normalize.css); 
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/main/main.css);
+@import url(../blocks/skills/skills.css);
+@import url(../blocks/store/store.css);
+@import url(../blocks/store/store.css);
+@import url(../blocks/contact/contact.css);
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/subscribe/subscribe.css);
+@import url(../blocks/signature/signature.css);
+@import url(../blocks/social/social.css);
+@import url(../blocks/font/font.css);

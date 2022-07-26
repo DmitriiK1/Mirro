@@ -1,0 +1,12 @@
+@import url(./card/card.css);
+
+.cards-grid{
+    max-width: 1167px;
+    margin: 47px auto 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 304px;
+    gap: 16px;
+    row-gap: 16px;
+}
+

@@ -1,0 +1,22 @@
+.skills__title{
+    position: relative;
+    text-align: center;
+    margin: 134px 0 11px;
+    
+    font-size: 32px;
+    line-height: 38px;
+
+    color: #3A5F56;
+}
+
+.skills__title::before{
+    position: absolute;
+    content: "";
+    background-image: url(../../../Image/Page-designs.svg);
+
+    left: 44.1%;
+    top: -34px;
+
+    height: 19px;
+    width: 160px;
+}

@@ -1,0 +1,12 @@
+@import url(./__text/container__text.css);
+@import url(./__button/container__button.css);
+
+.container{
+    width: 800px;
+    height: 300px;
+    margin: 100px auto;
+
+    display: flex;
+    background: rgba(244, 243, 240, 1);
+    border-radius: 16px;
+}

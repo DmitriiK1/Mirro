@@ -1,0 +1,12 @@
+.subscribe__button{
+    position: absolute;
+    height: 39px;
+    left: 82.97%;
+    right: 1.53%;
+    top: calc(50% - 39px/2);
+
+    color: rgba(250, 250, 252, 1);
+    background: #292C32;
+    border: none;
+    border-radius: 10px;
+}

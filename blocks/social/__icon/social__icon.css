@@ -1,0 +1,11 @@
+@import url(./__icon_image/social__icon_image.css);
+
+.social__icon{
+    width: 24px;
+    height: 24px;
+    margin: auto 20px auto 0px;
+}
+
+.social__icon:last-child{
+    margin: auto 0px ;
+}
