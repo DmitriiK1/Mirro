@@ -12,7 +12,7 @@
 .skills__title::before{
     position: absolute;
     content: "";
-    background-image: url(/Image/Page-designs.svg);
+    background-image: url(../../../Image/Page-designs.svg);
 
     left: 44.1%;
     top: -34px;
